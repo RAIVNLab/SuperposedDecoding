@@ -1,0 +1,11 @@
+datasets==2.19.0
+fairscale==0.4.13
+loguru==0.7.2
+nltk==3.8.1
+numpy==1.26.4
+Requests==2.32.2
+sentencepiece==0.2.0
+setuptools==58.2.0
+torch==2.3.0
+tqdm==4.66.4
+transformers==4.37.2

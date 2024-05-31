@@ -1,0 +1,22 @@
+{
+    "alpha": 0.55,
+    "temp": 0.1,
+    "n_drafts": 3,
+    "prompt_len": 15,
+    "n_token_sample": 9,
+    "n_token_consider": 32000,
+    "mixing_method": "sample_new_weights_with_score",
+    "smoothing": "geom",
+    "sample_tokens": 0,
+    "sample_beams": 0,
+    "i_weights": [
+        0.01,
+        0.04,
+        0.15
+    ],
+    "i_length": [
+        1,
+        2,
+        3
+    ]
+}

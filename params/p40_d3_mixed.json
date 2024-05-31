@@ -1,0 +1,12 @@
+{
+    "alpha": 0.55, 
+    "temp": 0.1,
+    "prompt_len": 40,
+    "mixing_method": "sample_new_weights_with_score",
+    "smoothing": "geom",
+    "sample_tokens": 0,
+    "sample_beams": 0,
+    "i_weights": [0.01, 0.04, 0.15, 0.18, 0.12],
+    "i_length": [1, 2, 3, 4, 5],
+    "ckpt_path": "../ckpts-200k"
+}

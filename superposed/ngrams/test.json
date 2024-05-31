@@ -1,0 +1,8 @@
+{
+    "train": [
+        {"text": "Hi my name is"},
+        {"text": "This is a story of"},
+	{"text": "In many cases, the architecture you want to use can be guessed from the name or the path of the pretrained model you are supplying"},
+	{"text": "There is one class of AutoModel for each task, and for each backend (PyTorch, TensorFlow, or Flax)."}
+    ]
+}

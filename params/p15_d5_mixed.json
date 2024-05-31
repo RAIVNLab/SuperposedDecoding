@@ -1,0 +1,26 @@
+{
+    "alpha": 0.6,
+    "temp": 0.06,
+    "n_drafts": 5,
+    "prompt_len": 15,
+    "n_token_sample": 15,
+    "n_token_consider": 32000,
+    "mixing_method": "sample_new_weights_with_score",
+    "smoothing": "geom",
+    "sample_tokens": 0,
+    "sample_beams": 0,
+    "i_weights": [
+        0.01,
+        0.04,
+        0.15,
+        0.18,
+        0.12
+    ],
+    "i_length": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}
