@@ -13,6 +13,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Superpo
 pip install -r requirements.txt
 python setup.py develop
 ```
+If you face any problems with nltk, please manually setup [the package](https://github.com/nltk/nltk).
 
 ## Model Weights and N-Gram Corpus Download
 
