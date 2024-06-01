@@ -45,7 +45,6 @@ To use these custom n-grams for Superposed Decoding, simply call make_models() f
 We provide notebooks to quickly run experiments using Superposed Decoding.
 ```
 cd superposed/notebooks
-ls
 ```
 ```nq.ipynb``` and ```triviaqa.ipynb``` contain evaluation for Natural Questions and TriviaQA respectively. ```custom.ipynb``` provides a setup to run Superposed Decoding on arbitrary prompts.
 
