@@ -1,4 +1,4 @@
-# SuperposedDecoding
+# SuperposedDecoding [Demo](https://huggingface.co/spaces/ethanlshen/SuperposedDecoding?logs=container)
 
 This is the repository for the paper ["Superposed Decoding: Multiple Generations from a Single Autoregressive Inference Pass"](https://arxiv.org/abs/2405.18400). We provide:
 1.  Implementation of Superposed Decoding on Llama-2-7B, 13B, and 70B.
