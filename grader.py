@@ -12,7 +12,7 @@ from superposed.llama.generation import Llama
 
 if __name__ == "__main__":
     # UPDATE THESE PARAMETERS #
-    result_file = "./owt/p15_d3_ngram4_llama7B_owt.pkl"  # File containing generations
+    result_file = "./owt/p15_d3_ngram4_llama7B_owt.pkl"  # File containing generations to evaluate
     mode = "eval"  # Evaluation mode (set to "eval" or "tune")
     prompt_len = 15  # Length of prefixes
     logger.info("File: " + result_file)

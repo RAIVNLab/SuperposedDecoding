@@ -31,7 +31,6 @@ tuning/
 llama/beam/
 images/
 plot/
-tokenizer*
 logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
